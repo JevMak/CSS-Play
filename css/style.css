@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Zeyada&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Zeyada', cursive;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Zeyada', cursive;
+    font-size: 5rem;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color: cadetblue;
+}
+
+.main{
+    border: 3px solid grey; 
+    width: 75%; 
+    margin: 0 auto;
+}
+
+.main div{
+    width: 200px; 
+    height: 200px; 
+    border: 1px solid blue; 
+    border-radius: 50%; 
+    margin: 2rem auto;
+}
+
+#red{
+    border-color: red;
+}
+
+#green{
+    border-color: green;
+}
+
+#blue{
+    border-color: blue;
+}
